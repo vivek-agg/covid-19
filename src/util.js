@@ -11,12 +11,12 @@ export const caseTypeColors = {
   recovered: {
     hex: "#7dd71d",
     rgb: "rgba(125,215,29,0.5)",
-    multiplier: 400,
+    multiplier: 300,
   },
   deaths: {
     hex: "#fb4443",
     rgb: "rgba(251,68,67,0.5)",
-    multiplier: 600,
+    multiplier: 1500,
   },
 };
 

@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-https://covid-19-tracker-f5157.web.app/
+https://vivek-covid-19.herokuapp.com/
 
 ## Available Scripts
 

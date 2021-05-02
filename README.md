@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-https://vivek-covid-19.herokuapp.com/
+Project Live at: https://covid-19-vivek.netlify.app/
 
 ## Available Scripts
 
